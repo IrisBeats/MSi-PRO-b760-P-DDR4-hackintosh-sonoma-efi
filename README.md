@@ -13,7 +13,7 @@
 * Corsair Vengeance RS RGB 4x16GB 3200MHz
 * XFX AMD Radeon RX 6800 16GB
 * Samsung SSD 970 EVO PLUS 1TB M.2 (Windows 10)
-* Crucial P3 1TB (macOS Sonoma)
+* Crucial P3 Plus 1TB (macOS Sonoma)
 * [Wi-Fi work with Heliport app]
 * [Bluetooth don't work (black screen)]
 * IIyama PL3480WQ: Primary screen, 3440x1440 at 180Hz (DP)
@@ -161,4 +161,8 @@ Map your USB ports with this tool:
   - Under `NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args`
   - Change to `agdpmod=pikera e1000=0 keepsyms=1 -ctrsmt alcid=11` to remove verbose mode and add audio support.
 
-
+ **My problems during the experiment**
+- Personally i had problems with the dual boot windows / mac os, which was (the boot to the windows10 os disappeared from the bios and OpenCore,
+-  reinstallation of windows impossible afterwards,
+-    so when reinstalling i had to remove everything related to mac os from my pc [bootable usb key / macos installer but i also removed the ssd with macos installed]
+-      and after all that windows 10 and mac worked successfully)
