@@ -7,8 +7,8 @@
 
 * I7 12700KF
 * MSI Pro B760-P DDR4
-  * Audio: Realtek ALC897
-  * LAN: Realtek® RTL8125BG 2.5G LAN
+* Audio: Realtek ALC897
+* LAN: Realtek® RTL8125BG 2.5G LAN
 * Corsair Vengeance RS RGB 4x16GB 3200MHz
 * XFX AMD Radeon RX 6800 16GB
 * Samsung SSD 970 EVO PLUS 1TB M.2 (Windows 10)
