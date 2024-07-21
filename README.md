@@ -18,7 +18,7 @@
 * IIyama PL3480WQ: Primary screen, 3440x1440 at 180Hz (DP)
 * IIyama PL2770H: Secondary screen, 1920x1080 at 120Hz (HDMI to DP)
 * Acer P236HL: Tertiary screen, 1920x1080 at 60Hz (HDMI)
-
+* # if you do a dual boot with WINDOWS 10 or 11, msi center will run with reduced functionality, this is due to the bios settings applied.   
 ---
 
 ### **Before You Start**
