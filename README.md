@@ -13,7 +13,8 @@
 * XFX AMD Radeon RX 6800 16GB
 * Samsung SSD 970 EVO PLUS 1TB M.2 (Windows 10)
 * Crucial P3 1TB (macOS Sonoma)
-* [Wi-Fi and Bluetooth don't work]
+* [Wi-Fi work with Heliport app]
+* [Bluetooth don't work (black screen)]
 * IIyama PL3480WQ: Primary screen, 3440x1440 at 180Hz (DP)
 * IIyama PL2770H: Secondary screen, 1920x1080 at 120Hz (HDMI to DP)
 * Acer P236HL: Tertiary screen, 1920x1080 at 60Hz (HDMI)
@@ -23,7 +24,7 @@
 ### **Before You Start**
 
 * Ensure your hardware is compatible.
-* Update your BIOS to version `>= 7D98v18`.
+* Update your BIOS to version `>= 1.B1`.
 * Read the [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html).
 
 ---
