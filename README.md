@@ -164,5 +164,5 @@ Map your USB ports with this tool:
  **My problems during the experiment**
 - Personally i had problems with the dual boot windows / mac os, which was (the boot to the windows10 os disappeared from the bios and OpenCore,
 -  reinstallation of windows impossible afterwards,
--    so when reinstalling i had to remove everything related to mac os from my pc [bootable usb key / macos installer but i also removed the ssd with macos installed]
--      and after all that windows 10 and mac worked successfully)
+-       so when reinstalling i had to remove everything related to mac os from my pc [bootable usb key / macos installer but i also removed the ssd with macos installed]
+-  and after all that windows 10 and mac worked successfully)
