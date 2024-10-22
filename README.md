@@ -1,5 +1,5 @@
 
-# [Download EFI FILE](https://www.mediafire.com/folder/s26s0hhu41rgj/EFI)
+# [Download EFI FILE]()
 ```I put this link because it is too heavy for github```
 
 # Hackintosh on MSI Pro B760-P with AMD RX 6800 via [OpenCore]
